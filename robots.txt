@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://c-lee13.github.io/music1701-wchb/sitemap.xml
